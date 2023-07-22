@@ -1,7 +1,7 @@
 /*styles.css*/
 
 * { /* Basic Style setup */
-    outline: /* 1px dotted red; /* <-- This helps to show where all the content boxes are. Helpful, not required. */
+    /*outline: 1px dotted red; /* <-- This helps to show where all the content boxes are. Helpful, not required. */
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -160,7 +160,6 @@ h1 {
 
 .cta-text {
     font-weight: bold;
-    margin-bottom: -15px;
 }
 
 .cta-subtext {
